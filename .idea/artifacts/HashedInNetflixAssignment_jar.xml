@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HashedInNetflixAssignment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HashedInNetflixAssignment_jar</output-path>
+    <root id="archive" name="HashedInNetflixAssignment.jar">
+      <element id="module-output" name="HashedInNetflixAssignment" />
+    </root>
+  </artifact>
+</component>
